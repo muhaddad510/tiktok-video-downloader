@@ -31,4 +31,15 @@ Download tiktok video tanpa watermark
    flutter pub get
    flutter run
 
-  4. Pilih emulator atau device yang tersedia
+4. Pilih emulator atau device yang tersedia
+
+
+## Beberapa fiturnya:
+
+* Unduh video hanya dengan memberikan tautan.
+
+* Menyimpan video yang diunduh di penyimpanan yang aman.
+
+* Memiliki pemutar video bawaan sehingga Anda tidak perlu beralih antar pemutar video.
+
+* Riwayat unduhan
